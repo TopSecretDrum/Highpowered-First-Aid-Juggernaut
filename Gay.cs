@@ -10,6 +10,8 @@ namespace Gay
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Nigga");
+            Console.ReadKey();
         }
     }
 }
