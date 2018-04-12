@@ -10,6 +10,7 @@ namespace Gay
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Waya");
             Console.WriteLine("Test");
             Console.WriteLine("Test2");
             Console.WriteLine("Test3");
